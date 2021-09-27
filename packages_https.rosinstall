@@ -43,25 +43,25 @@
     version: feature/new_abort_criterion_for_fast_integrator
 - git:
     local-name: src/mapping/volumetric_mapping/
-    uri: https://github.com/unr-arl/volumetric_mapping
+    uri: https://github.com/ntnu-arl/volumetric_mapping
     version: gbp_dev
 
 #EXPLORATION
 - git:
     local-name: src/exploration/gbplanner_ros/
-    uri: https://github.com/unr-arl/gbplanner_ros
+    uri: https://github.com/ntnu-arl/gbplanner_ros
 - git:
     local-name: src/exploration/pci_mav/
-    uri: https://github.com/unr-arl/pci_mav
+    uri: https://github.com/ntnu-arl/pci_mav
 
 # UI
 
 # sim
 - git:
     local-name: src/sim/rotors_simulator/
-    uri: https://github.com/unr-arl/rotors_simulator
+    uri: https://github.com/ntnu-arl/rotors_simulator
     version: dev/gbplanner_ros
 - git:
     local-name: src/sim/lidar_simulator/
-    uri: https://github.com/unr-arl/lidar_simulator
+    uri: https://github.com/ntnu-arl/lidar_simulator
 
